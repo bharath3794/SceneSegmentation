@@ -21,7 +21,7 @@ Total Number of Movies in Dataset
 **NOTE**: This test data is completely unseen and used only for testing purpose after all the epochs of training and validating
 
 ## Model
-Taken from **AnyiRao's Model** available in his [Github Repo](https://github.com/AnyiRao/SceneSeg)
+Taken from **AnyiRao's Model** available in the [Github Repo](https://github.com/AnyiRao/SceneSeg)
 (All Credits to Anyi Rao. Thanks for the excellent work.)
 
 ### Architecture Diagram
