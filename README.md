@@ -84,7 +84,7 @@ pickle v4.0
 glob
 ```
 ### Instructions to Run
-- Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
+- Set Configuration Parameters in `configuration.py` file or while instantiating `Config` class object from `'__main__'` in `main.py` file
 
 Important Parameters to Change:
 ```
