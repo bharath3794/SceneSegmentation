@@ -72,6 +72,6 @@ After epoch #30,
 ### Val Loss
 ![val](https://github.com/bharath3794/SceneSegmentation/blob/main/graphs_loss/val_loss_30_epochs.JPG)
 
-## How to Run
+## Try Yourself
 - Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
 - Run `python main.py`
