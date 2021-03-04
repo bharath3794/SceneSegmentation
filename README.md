@@ -1,8 +1,8 @@
-# Scene Segmentation Using the MovieScenes Dataset
+# Scene Segmentation Using the MovieScenes Dataset (Solved as a Eluvio ML Challenge)
 
 ## Dataset
-https://drive.google.com/file/d/1oZSOkd4lFmbY205VKQ9aPv1Hz3T_-N6e/view?usp=sharing
-This dataset is a subset of MovieNet dataset which can be found here http://movienet.site/
+[Dataset Link](https://drive.google.com/file/d/1oZSOkd4lFmbY205VKQ9aPv1Hz3T_-N6e/view?usp=sharing)
+This dataset is a subset of MovieNet dataset. Full version can be found here [MovieNet Original Dataset](https://github.com/movienet/movienet-tools)
 
 ## Train, Validation and Test Splits
 Total Movies in Dataset:
@@ -58,3 +58,6 @@ Code Ref: Eluvio ML Challenges Github repo (https://github.com/eluv-io/elv-ml-ch
 **Val Loss**
 
 
+## How to Run
+- Set Configuration Parameters in configuration.py file or from '\_\_main\_\_' while initiating 'Config' class object in main.py file
+- Run `python main.py`
