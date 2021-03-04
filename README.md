@@ -97,3 +97,17 @@ n_seq: sequence length of each feature/sample
 n_shots: no. of shots to consider in each sequence of a feature/sample
 ```
 - Run `python main.py`
+
+## Graph Visualization
+Model graphs are provided in the project "./runs" directory.
+Library required for graph visualization:
+
+````
+tensorboard
+````
+
+**Command to visualize graphs:**
+
+````bash
+tensorboard --logdir runs
+````
