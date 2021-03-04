@@ -103,6 +103,6 @@ Model graphs are provided in the project `./runs` directory.
 
 **Command to visualize graphs:**
 
-````bash
+```
 tensorboard --logdir runs
-````
+```
