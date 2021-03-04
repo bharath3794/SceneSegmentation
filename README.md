@@ -21,7 +21,7 @@ Total Number of Movies in Dataset
 **NOTE**: This data is completely unseen and used only for testing purpose after all epochs of training and validating
 
 ## Model
-Taken from AnyiRao's Model available in his [Github Repo](https://github.com/AnyiRao/SceneSeg)
+Taken from **AnyiRao's Model** available in his [Github Repo](https://github.com/AnyiRao/SceneSeg)
 (Thanks to his excellent work.)
 
 ### Architecture Diagram
@@ -47,10 +47,10 @@ epoch #30
 After epoch #30, 
         AVG Test Loss = 0.2833
 ```
-**_NOTE_**: Testing is only performed once in the end after completing all the epochs of training and validation.
+**NOTE**: Testing is only performed once in the end after completing all the epochs of training and validation.
 
 ### Average Precision and IoU
-Code Ref: 
+#### Code Ref: 
 **[Eluvio ML Challenges Github repo](https://github.com/eluv-io/elv-ml-challenge)**
 
 **Average Precision**:
