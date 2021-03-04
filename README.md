@@ -100,11 +100,6 @@ n_shots: no. of shots to consider in each sequence of a feature/sample
 
 ## Graph Visualization
 Model graphs are provided in the project `./runs` directory.
-Library required for graph visualization:
-
-````
-tensorboard
-````
 
 **Command to visualize graphs:**
 
