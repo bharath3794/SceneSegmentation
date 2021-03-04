@@ -1,0 +1,870 @@
+Selected Torch Device:  cuda
+_____TRAINING_____
+epoch #1
+	Train Epoch: 1 [0/7405 (0%)]	Loss: 0.692866
+	Train Epoch: 1 [512/7405 (7%)]	Loss: 0.378860
+	Train Epoch: 1 [1024/7405 (14%)]	Loss: 0.233417
+	Train Epoch: 1 [1536/7405 (21%)]	Loss: 0.336350
+	Train Epoch: 1 [2048/7405 (28%)]	Loss: 0.374502
+	Train Epoch: 1 [2560/7405 (35%)]	Loss: 0.268524
+	Train Epoch: 1 [3072/7405 (41%)]	Loss: 0.259005
+	Train Epoch: 1 [3584/7405 (48%)]	Loss: 0.241865
+	Train Epoch: 1 [4096/7405 (55%)]	Loss: 0.474235
+	Train Epoch: 1 [4608/7405 (62%)]	Loss: 0.164688
+	Train Epoch: 1 [5120/7405 (69%)]	Loss: 0.219129
+	Train Epoch: 1 [5632/7405 (76%)]	Loss: 0.366355
+	Train Epoch: 1 [6144/7405 (83%)]	Loss: 0.132324
+	Train Epoch: 1 [6656/7405 (90%)]	Loss: 0.199139
+	Train Epoch: 1 [7168/7405 (97%)]	Loss: 0.182326
+
+End of Epoch #1, AVG Train Loss=0.281
+
+_____VALIDATING_____
+	Val Epoch: 1 [0/1852 (0%)]	Loss: 0.237196
+	Val Epoch: 1 [512/1852 (28%)]	Loss: 0.257472
+	Val Epoch: 1 [1024/1852 (55%)]	Loss: 0.320903
+	Val Epoch: 1 [1536/1852 (83%)]	Loss: 0.235809
+
+End of Epoch #1, AVG Val Loss=0.2958
+
+Model saved  ./checkpoints/model_1_0.30.pth
+_____TRAINING_____
+epoch #2
+	Train Epoch: 2 [0/7405 (0%)]	Loss: 0.298726
+	Train Epoch: 2 [512/7405 (7%)]	Loss: 0.184551
+	Train Epoch: 2 [1024/7405 (14%)]	Loss: 0.423724
+	Train Epoch: 2 [1536/7405 (21%)]	Loss: 0.268414
+	Train Epoch: 2 [2048/7405 (28%)]	Loss: 0.381949
+	Train Epoch: 2 [2560/7405 (35%)]	Loss: 0.408108
+	Train Epoch: 2 [3072/7405 (41%)]	Loss: 0.209311
+	Train Epoch: 2 [3584/7405 (48%)]	Loss: 0.117464
+	Train Epoch: 2 [4096/7405 (55%)]	Loss: 0.233470
+	Train Epoch: 2 [4608/7405 (62%)]	Loss: 0.344419
+	Train Epoch: 2 [5120/7405 (69%)]	Loss: 0.301276
+	Train Epoch: 2 [5632/7405 (76%)]	Loss: 0.267896
+	Train Epoch: 2 [6144/7405 (83%)]	Loss: 0.376998
+	Train Epoch: 2 [6656/7405 (90%)]	Loss: 0.238452
+	Train Epoch: 2 [7168/7405 (97%)]	Loss: 0.296715
+
+End of Epoch #2, AVG Train Loss=0.2798
+
+_____VALIDATING_____
+	Val Epoch: 2 [0/1852 (0%)]	Loss: 0.123953
+	Val Epoch: 2 [512/1852 (28%)]	Loss: 0.267466
+	Val Epoch: 2 [1024/1852 (55%)]	Loss: 0.268007
+	Val Epoch: 2 [1536/1852 (83%)]	Loss: 0.212363
+
+End of Epoch #2, AVG Val Loss=0.2643
+
+Model saved  ./checkpoints/model_2_0.26.pth
+_____TRAINING_____
+epoch #3
+	Train Epoch: 3 [0/7405 (0%)]	Loss: 0.355303
+	Train Epoch: 3 [512/7405 (7%)]	Loss: 0.160453
+	Train Epoch: 3 [1024/7405 (14%)]	Loss: 0.173585
+	Train Epoch: 3 [1536/7405 (21%)]	Loss: 0.165026
+	Train Epoch: 3 [2048/7405 (28%)]	Loss: 0.204327
+	Train Epoch: 3 [2560/7405 (35%)]	Loss: 0.173061
+	Train Epoch: 3 [3072/7405 (41%)]	Loss: 0.266293
+	Train Epoch: 3 [3584/7405 (48%)]	Loss: 0.266849
+	Train Epoch: 3 [4096/7405 (55%)]	Loss: 0.001769
+	Train Epoch: 3 [4608/7405 (62%)]	Loss: 0.116209
+	Train Epoch: 3 [5120/7405 (69%)]	Loss: 0.132192
+	Train Epoch: 3 [5632/7405 (76%)]	Loss: 0.266717
+	Train Epoch: 3 [6144/7405 (83%)]	Loss: 0.234354
+	Train Epoch: 3 [6656/7405 (90%)]	Loss: 0.266409
+	Train Epoch: 3 [7168/7405 (97%)]	Loss: 0.257360
+
+End of Epoch #3, AVG Train Loss=0.2863
+
+_____VALIDATING_____
+	Val Epoch: 3 [0/1852 (0%)]	Loss: 0.568703
+	Val Epoch: 3 [512/1852 (28%)]	Loss: 0.267318
+	Val Epoch: 3 [1024/1852 (55%)]	Loss: 0.233817
+	Val Epoch: 3 [1536/1852 (83%)]	Loss: 0.166846
+
+End of Epoch #3, AVG Val Loss=0.2627
+
+Model saved  ./checkpoints/model_3_0.26.pth
+_____TRAINING_____
+epoch #4
+	Train Epoch: 4 [0/7405 (0%)]	Loss: 0.166835
+	Train Epoch: 4 [512/7405 (7%)]	Loss: 0.202198
+	Train Epoch: 4 [1024/7405 (14%)]	Loss: 0.498246
+	Train Epoch: 4 [1536/7405 (21%)]	Loss: 0.140583
+	Train Epoch: 4 [2048/7405 (28%)]	Loss: 0.305647
+	Train Epoch: 4 [2560/7405 (35%)]	Loss: 0.327904
+	Train Epoch: 4 [3072/7405 (41%)]	Loss: 0.207533
+	Train Epoch: 4 [3584/7405 (48%)]	Loss: 0.183355
+	Train Epoch: 4 [4096/7405 (55%)]	Loss: 0.365918
+	Train Epoch: 4 [4608/7405 (62%)]	Loss: 0.264490
+	Train Epoch: 4 [5120/7405 (69%)]	Loss: 0.356598
+	Train Epoch: 4 [5632/7405 (76%)]	Loss: 0.266626
+	Train Epoch: 4 [6144/7405 (83%)]	Loss: 0.202671
+	Train Epoch: 4 [6656/7405 (90%)]	Loss: 0.372576
+	Train Epoch: 4 [7168/7405 (97%)]	Loss: 0.267618
+
+End of Epoch #4, AVG Train Loss=0.2924
+
+_____VALIDATING_____
+	Val Epoch: 4 [0/1852 (0%)]	Loss: 0.298527
+	Val Epoch: 4 [512/1852 (28%)]	Loss: 0.679195
+	Val Epoch: 4 [1024/1852 (55%)]	Loss: 0.361941
+	Val Epoch: 4 [1536/1852 (83%)]	Loss: 0.203275
+
+End of Epoch #4, AVG Val Loss=0.262
+
+Model saved  ./checkpoints/model_4_0.26.pth
+_____TRAINING_____
+epoch #5
+	Train Epoch: 5 [0/7405 (0%)]	Loss: 0.170963
+	Train Epoch: 5 [512/7405 (7%)]	Loss: 0.237854
+	Train Epoch: 5 [1024/7405 (14%)]	Loss: 0.244447
+	Train Epoch: 5 [1536/7405 (21%)]	Loss: 0.346233
+	Train Epoch: 5 [2048/7405 (28%)]	Loss: 0.173211
+	Train Epoch: 5 [2560/7405 (35%)]	Loss: 0.328100
+	Train Epoch: 5 [3072/7405 (41%)]	Loss: 0.266511
+	Train Epoch: 5 [3584/7405 (48%)]	Loss: 0.202905
+	Train Epoch: 5 [4096/7405 (55%)]	Loss: 0.266413
+	Train Epoch: 5 [4608/7405 (62%)]	Loss: 0.171143
+	Train Epoch: 5 [5120/7405 (69%)]	Loss: 0.235350
+	Train Epoch: 5 [5632/7405 (76%)]	Loss: 0.234488
+	Train Epoch: 5 [6144/7405 (83%)]	Loss: 0.234908
+	Train Epoch: 5 [6656/7405 (90%)]	Loss: 0.297007
+	Train Epoch: 5 [7168/7405 (97%)]	Loss: 0.205954
+
+End of Epoch #5, AVG Train Loss=0.2643
+
+_____VALIDATING_____
+	Val Epoch: 5 [0/1852 (0%)]	Loss: 0.174729
+	Val Epoch: 5 [512/1852 (28%)]	Loss: 0.144128
+	Val Epoch: 5 [1024/1852 (55%)]	Loss: 0.266527
+	Val Epoch: 5 [1536/1852 (83%)]	Loss: 0.358332
+
+End of Epoch #5, AVG Val Loss=0.2624
+
+_____TRAINING_____
+epoch #6
+	Train Epoch: 6 [0/7405 (0%)]	Loss: 0.297135
+	Train Epoch: 6 [512/7405 (7%)]	Loss: 0.235144
+	Train Epoch: 6 [1024/7405 (14%)]	Loss: 0.235125
+	Train Epoch: 6 [1536/7405 (21%)]	Loss: 0.206492
+	Train Epoch: 6 [2048/7405 (28%)]	Loss: 0.233565
+	Train Epoch: 6 [2560/7405 (35%)]	Loss: 0.234661
+	Train Epoch: 6 [3072/7405 (41%)]	Loss: 0.327184
+	Train Epoch: 6 [3584/7405 (48%)]	Loss: 0.266219
+	Train Epoch: 6 [4096/7405 (55%)]	Loss: 0.294540
+	Train Epoch: 6 [4608/7405 (62%)]	Loss: 0.134983
+	Train Epoch: 6 [5120/7405 (69%)]	Loss: 0.243159
+	Train Epoch: 6 [5632/7405 (76%)]	Loss: 0.290123
+	Train Epoch: 6 [6144/7405 (83%)]	Loss: 0.204619
+	Train Epoch: 6 [6656/7405 (90%)]	Loss: 0.362099
+	Train Epoch: 6 [7168/7405 (97%)]	Loss: 0.109738
+
+End of Epoch #6, AVG Train Loss=0.285
+
+_____VALIDATING_____
+	Val Epoch: 6 [0/1852 (0%)]	Loss: 0.266761
+	Val Epoch: 6 [512/1852 (28%)]	Loss: 0.296858
+	Val Epoch: 6 [1024/1852 (55%)]	Loss: 0.326935
+	Val Epoch: 6 [1536/1852 (83%)]	Loss: 0.326967
+
+End of Epoch #6, AVG Val Loss=0.2622
+
+_____TRAINING_____
+epoch #7
+	Train Epoch: 7 [0/7405 (0%)]	Loss: 0.326970
+	Train Epoch: 7 [512/7405 (7%)]	Loss: 0.478348
+	Train Epoch: 7 [1024/7405 (14%)]	Loss: 0.207070
+	Train Epoch: 7 [1536/7405 (21%)]	Loss: 0.316858
+	Train Epoch: 7 [2048/7405 (28%)]	Loss: 0.217967
+	Train Epoch: 7 [2560/7405 (35%)]	Loss: 0.199490
+	Train Epoch: 7 [3072/7405 (41%)]	Loss: 0.161051
+	Train Epoch: 7 [3584/7405 (48%)]	Loss: 0.168596
+	Train Epoch: 7 [4096/7405 (55%)]	Loss: 0.180128
+	Train Epoch: 7 [4608/7405 (62%)]	Loss: 0.416339
+	Train Epoch: 7 [5120/7405 (69%)]	Loss: 0.616812
+	Train Epoch: 7 [5632/7405 (76%)]	Loss: 0.206404
+	Train Epoch: 7 [6144/7405 (83%)]	Loss: 0.266927
+	Train Epoch: 7 [6656/7405 (90%)]	Loss: 0.318039
+	Train Epoch: 7 [7168/7405 (97%)]	Loss: 0.280905
+
+End of Epoch #7, AVG Train Loss=0.2821
+
+_____VALIDATING_____
+	Val Epoch: 7 [0/1852 (0%)]	Loss: 0.237879
+	Val Epoch: 7 [512/1852 (28%)]	Loss: 0.414179
+	Val Epoch: 7 [1024/1852 (55%)]	Loss: 0.326008
+	Val Epoch: 7 [1536/1852 (83%)]	Loss: 0.267381
+
+End of Epoch #7, AVG Val Loss=0.2635
+
+_____TRAINING_____
+epoch #8
+	Train Epoch: 8 [0/7405 (0%)]	Loss: 0.267385
+	Train Epoch: 8 [512/7405 (7%)]	Loss: 0.146233
+	Train Epoch: 8 [1024/7405 (14%)]	Loss: 0.204153
+	Train Epoch: 8 [1536/7405 (21%)]	Loss: 0.297913
+	Train Epoch: 8 [2048/7405 (28%)]	Loss: 0.235141
+	Train Epoch: 8 [2560/7405 (35%)]	Loss: 0.296800
+	Train Epoch: 8 [3072/7405 (41%)]	Loss: 0.266423
+	Train Epoch: 8 [3584/7405 (48%)]	Loss: 0.138559
+	Train Epoch: 8 [4096/7405 (55%)]	Loss: 0.235766
+	Train Epoch: 8 [4608/7405 (62%)]	Loss: 0.438074
+	Train Epoch: 8 [5120/7405 (69%)]	Loss: 0.480497
+	Train Epoch: 8 [5632/7405 (76%)]	Loss: 0.237368
+	Train Epoch: 8 [6144/7405 (83%)]	Loss: 0.268877
+	Train Epoch: 8 [6656/7405 (90%)]	Loss: 0.383170
+	Train Epoch: 8 [7168/7405 (97%)]	Loss: 0.331764
+
+End of Epoch #8, AVG Train Loss=0.2795
+
+_____VALIDATING_____
+	Val Epoch: 8 [0/1852 (0%)]	Loss: 0.371562
+	Val Epoch: 8 [512/1852 (28%)]	Loss: 0.499483
+	Val Epoch: 8 [1024/1852 (55%)]	Loss: 0.284663
+	Val Epoch: 8 [1536/1852 (83%)]	Loss: 0.289045
+
+End of Epoch #8, AVG Val Loss=0.2806
+
+_____TRAINING_____
+epoch #9
+	Train Epoch: 9 [0/7405 (0%)]	Loss: 0.117499
+	Train Epoch: 9 [512/7405 (7%)]	Loss: 0.200938
+	Train Epoch: 9 [1024/7405 (14%)]	Loss: 0.297783
+	Train Epoch: 9 [1536/7405 (21%)]	Loss: 0.041485
+	Train Epoch: 9 [2048/7405 (28%)]	Loss: 0.266394
+	Train Epoch: 9 [2560/7405 (35%)]	Loss: 0.200998
+	Train Epoch: 9 [3072/7405 (41%)]	Loss: 0.267011
+	Train Epoch: 9 [3584/7405 (48%)]	Loss: 0.418093
+	Train Epoch: 9 [4096/7405 (55%)]	Loss: 0.575076
+	Train Epoch: 9 [4608/7405 (62%)]	Loss: 0.234333
+	Train Epoch: 9 [5120/7405 (69%)]	Loss: 0.337167
+	Train Epoch: 9 [5632/7405 (76%)]	Loss: 0.201515
+	Train Epoch: 9 [6144/7405 (83%)]	Loss: 0.198598
+	Train Epoch: 9 [6656/7405 (90%)]	Loss: 0.272023
+	Train Epoch: 9 [7168/7405 (97%)]	Loss: 0.120665
+
+End of Epoch #9, AVG Train Loss=0.2997
+
+_____VALIDATING_____
+	Val Epoch: 9 [0/1852 (0%)]	Loss: 0.307928
+	Val Epoch: 9 [512/1852 (28%)]	Loss: 0.260414
+	Val Epoch: 9 [1024/1852 (55%)]	Loss: 0.400290
+	Val Epoch: 9 [1536/1852 (83%)]	Loss: 0.168076
+
+End of Epoch #9, AVG Val Loss=0.2804
+
+_____TRAINING_____
+epoch #10
+	Train Epoch: 10 [0/7405 (0%)]	Loss: 0.284647
+	Train Epoch: 10 [512/7405 (7%)]	Loss: 0.271527
+	Train Epoch: 10 [1024/7405 (14%)]	Loss: 0.418071
+	Train Epoch: 10 [1536/7405 (21%)]	Loss: 0.564396
+	Train Epoch: 10 [2048/7405 (28%)]	Loss: 0.529302
+	Train Epoch: 10 [2560/7405 (35%)]	Loss: 0.329909
+	Train Epoch: 10 [3072/7405 (41%)]	Loss: 0.141570
+	Train Epoch: 10 [3584/7405 (48%)]	Loss: 0.175250
+	Train Epoch: 10 [4096/7405 (55%)]	Loss: 0.268699
+	Train Epoch: 10 [4608/7405 (62%)]	Loss: 0.402809
+	Train Epoch: 10 [5120/7405 (69%)]	Loss: 0.084877
+	Train Epoch: 10 [5632/7405 (76%)]	Loss: 0.482334
+	Train Epoch: 10 [6144/7405 (83%)]	Loss: 0.236153
+	Train Epoch: 10 [6656/7405 (90%)]	Loss: 0.328845
+	Train Epoch: 10 [7168/7405 (97%)]	Loss: 0.296958
+
+End of Epoch #10, AVG Train Loss=0.2702
+
+_____VALIDATING_____
+	Val Epoch: 10 [0/1852 (0%)]	Loss: 0.108564
+	Val Epoch: 10 [512/1852 (28%)]	Loss: 0.203288
+	Val Epoch: 10 [1024/1852 (55%)]	Loss: 0.203277
+	Val Epoch: 10 [1536/1852 (83%)]	Loss: 0.203284
+
+End of Epoch #10, AVG Val Loss=0.2623
+
+_____TRAINING_____
+epoch #11
+	Train Epoch: 11 [0/7405 (0%)]	Loss: 0.424256
+	Train Epoch: 11 [512/7405 (7%)]	Loss: 0.082956
+	Train Epoch: 11 [1024/7405 (14%)]	Loss: 0.225307
+	Train Epoch: 11 [1536/7405 (21%)]	Loss: 0.242293
+	Train Epoch: 11 [2048/7405 (28%)]	Loss: 0.165209
+	Train Epoch: 11 [2560/7405 (35%)]	Loss: 0.472473
+	Train Epoch: 11 [3072/7405 (41%)]	Loss: 0.328611
+	Train Epoch: 11 [3584/7405 (48%)]	Loss: 0.273044
+	Train Epoch: 11 [4096/7405 (55%)]	Loss: 0.235211
+	Train Epoch: 11 [4608/7405 (62%)]	Loss: 0.310858
+	Train Epoch: 11 [5120/7405 (69%)]	Loss: 0.205607
+	Train Epoch: 11 [5632/7405 (76%)]	Loss: 0.206126
+	Train Epoch: 11 [6144/7405 (83%)]	Loss: 0.363303
+	Train Epoch: 11 [6656/7405 (90%)]	Loss: 0.237107
+	Train Epoch: 11 [7168/7405 (97%)]	Loss: 0.329261
+
+End of Epoch #11, AVG Train Loss=0.2678
+
+_____VALIDATING_____
+	Val Epoch: 11 [0/1852 (0%)]	Loss: 0.414372
+	Val Epoch: 11 [512/1852 (28%)]	Loss: 0.413820
+	Val Epoch: 11 [1024/1852 (55%)]	Loss: 0.355684
+	Val Epoch: 11 [1536/1852 (83%)]	Loss: 0.090600
+
+End of Epoch #11, AVG Val Loss=0.2634
+
+_____TRAINING_____
+epoch #12
+	Train Epoch: 12 [0/7405 (0%)]	Loss: 0.149435
+	Train Epoch: 12 [512/7405 (7%)]	Loss: 0.328225
+	Train Epoch: 12 [1024/7405 (14%)]	Loss: 0.200342
+	Train Epoch: 12 [1536/7405 (21%)]	Loss: 0.134303
+	Train Epoch: 12 [2048/7405 (28%)]	Loss: 0.203364
+	Train Epoch: 12 [2560/7405 (35%)]	Loss: 0.235281
+	Train Epoch: 12 [3072/7405 (41%)]	Loss: 0.325919
+	Train Epoch: 12 [3584/7405 (48%)]	Loss: 0.242377
+	Train Epoch: 12 [4096/7405 (55%)]	Loss: 0.235479
+	Train Epoch: 12 [4608/7405 (62%)]	Loss: 0.170880
+	Train Epoch: 12 [5120/7405 (69%)]	Loss: 0.411091
+	Train Epoch: 12 [5632/7405 (76%)]	Loss: 0.326144
+	Train Epoch: 12 [6144/7405 (83%)]	Loss: 0.203605
+	Train Epoch: 12 [6656/7405 (90%)]	Loss: 0.556348
+	Train Epoch: 12 [7168/7405 (97%)]	Loss: 0.235842
+
+End of Epoch #12, AVG Train Loss=0.2796
+
+_____VALIDATING_____
+	Val Epoch: 12 [0/1852 (0%)]	Loss: 0.485364
+	Val Epoch: 12 [512/1852 (28%)]	Loss: 0.172541
+	Val Epoch: 12 [1024/1852 (55%)]	Loss: 0.141258
+	Val Epoch: 12 [1536/1852 (83%)]	Loss: 0.297668
+
+End of Epoch #12, AVG Val Loss=0.2618
+
+Model saved  ./checkpoints/model_12_0.26.pth
+_____TRAINING_____
+epoch #13
+	Train Epoch: 13 [0/7405 (0%)]	Loss: 0.235106
+	Train Epoch: 13 [512/7405 (7%)]	Loss: 0.459678
+	Train Epoch: 13 [1024/7405 (14%)]	Loss: 0.107826
+	Train Epoch: 13 [1536/7405 (21%)]	Loss: 0.266423
+	Train Epoch: 13 [2048/7405 (28%)]	Loss: 0.331329
+	Train Epoch: 13 [2560/7405 (35%)]	Loss: 0.296914
+	Train Epoch: 13 [3072/7405 (41%)]	Loss: 0.148362
+	Train Epoch: 13 [3584/7405 (48%)]	Loss: 0.328523
+	Train Epoch: 13 [4096/7405 (55%)]	Loss: 0.297758
+	Train Epoch: 13 [4608/7405 (62%)]	Loss: 0.266508
+	Train Epoch: 13 [5120/7405 (69%)]	Loss: 0.195621
+	Train Epoch: 13 [5632/7405 (76%)]	Loss: 0.235063
+	Train Epoch: 13 [6144/7405 (83%)]	Loss: 0.393745
+	Train Epoch: 13 [6656/7405 (90%)]	Loss: 0.268316
+	Train Epoch: 13 [7168/7405 (97%)]	Loss: 0.247936
+
+End of Epoch #13, AVG Train Loss=0.2735
+
+_____VALIDATING_____
+	Val Epoch: 13 [0/1852 (0%)]	Loss: 0.173561
+	Val Epoch: 13 [512/1852 (28%)]	Loss: 0.266402
+	Val Epoch: 13 [1024/1852 (55%)]	Loss: 0.390257
+	Val Epoch: 13 [1536/1852 (83%)]	Loss: 0.297402
+
+End of Epoch #13, AVG Val Loss=0.262
+
+_____TRAINING_____
+epoch #14
+	Train Epoch: 14 [0/7405 (0%)]	Loss: 0.173577
+	Train Epoch: 14 [512/7405 (7%)]	Loss: 0.267680
+	Train Epoch: 14 [1024/7405 (14%)]	Loss: 0.449069
+	Train Epoch: 14 [1536/7405 (21%)]	Loss: 0.266662
+	Train Epoch: 14 [2048/7405 (28%)]	Loss: 0.307533
+	Train Epoch: 14 [2560/7405 (35%)]	Loss: 0.214196
+	Train Epoch: 14 [3072/7405 (41%)]	Loss: 0.233553
+	Train Epoch: 14 [3584/7405 (48%)]	Loss: 0.297442
+	Train Epoch: 14 [4096/7405 (55%)]	Loss: 0.166646
+	Train Epoch: 14 [4608/7405 (62%)]	Loss: 0.189635
+	Train Epoch: 14 [5120/7405 (69%)]	Loss: 0.326922
+	Train Epoch: 14 [5632/7405 (76%)]	Loss: 0.179633
+	Train Epoch: 14 [6144/7405 (83%)]	Loss: 0.216960
+	Train Epoch: 14 [6656/7405 (90%)]	Loss: 0.201220
+	Train Epoch: 14 [7168/7405 (97%)]	Loss: 0.189840
+
+End of Epoch #14, AVG Train Loss=0.2843
+
+_____VALIDATING_____
+	Val Epoch: 14 [0/1852 (0%)]	Loss: 0.358300
+	Val Epoch: 14 [512/1852 (28%)]	Loss: 0.420348
+	Val Epoch: 14 [1024/1852 (55%)]	Loss: 0.144870
+	Val Epoch: 14 [1536/1852 (83%)]	Loss: 0.114440
+
+End of Epoch #14, AVG Val Loss=0.2623
+
+_____TRAINING_____
+epoch #15
+	Train Epoch: 15 [0/7405 (0%)]	Loss: 0.144884
+	Train Epoch: 15 [512/7405 (7%)]	Loss: 0.259003
+	Train Epoch: 15 [1024/7405 (14%)]	Loss: 0.475248
+	Train Epoch: 15 [1536/7405 (21%)]	Loss: 0.235883
+	Train Epoch: 15 [2048/7405 (28%)]	Loss: 0.206015
+	Train Epoch: 15 [2560/7405 (35%)]	Loss: 0.201768
+	Train Epoch: 15 [3072/7405 (41%)]	Loss: 0.197592
+	Train Epoch: 15 [3584/7405 (48%)]	Loss: 0.332349
+	Train Epoch: 15 [4096/7405 (55%)]	Loss: 0.526134
+	Train Epoch: 15 [4608/7405 (62%)]	Loss: 0.276588
+	Train Epoch: 15 [5120/7405 (69%)]	Loss: 0.314069
+	Train Epoch: 15 [5632/7405 (76%)]	Loss: 0.175938
+	Train Epoch: 15 [6144/7405 (83%)]	Loss: 0.307035
+	Train Epoch: 15 [6656/7405 (90%)]	Loss: 0.364881
+	Train Epoch: 15 [7168/7405 (97%)]	Loss: 0.280758
+
+End of Epoch #15, AVG Train Loss=0.2795
+
+_____VALIDATING_____
+	Val Epoch: 15 [0/1852 (0%)]	Loss: 0.204398
+	Val Epoch: 15 [512/1852 (28%)]	Loss: 0.298221
+	Val Epoch: 15 [1024/1852 (55%)]	Loss: 0.389235
+	Val Epoch: 15 [1536/1852 (83%)]	Loss: 0.421457
+
+End of Epoch #15, AVG Val Loss=0.2623
+
+_____TRAINING_____
+epoch #16
+	Train Epoch: 16 [0/7405 (0%)]	Loss: 0.141948
+	Train Epoch: 16 [512/7405 (7%)]	Loss: 0.112543
+	Train Epoch: 16 [1024/7405 (14%)]	Loss: 0.207210
+	Train Epoch: 16 [1536/7405 (21%)]	Loss: 0.476029
+	Train Epoch: 16 [2048/7405 (28%)]	Loss: 0.356831
+	Train Epoch: 16 [2560/7405 (35%)]	Loss: 0.326974
+	Train Epoch: 16 [3072/7405 (41%)]	Loss: 0.327119
+	Train Epoch: 16 [3584/7405 (48%)]	Loss: 0.266620
+	Train Epoch: 16 [4096/7405 (55%)]	Loss: 0.297049
+	Train Epoch: 16 [4608/7405 (62%)]	Loss: 0.266569
+	Train Epoch: 16 [5120/7405 (69%)]	Loss: 0.541885
+	Train Epoch: 16 [5632/7405 (76%)]	Loss: 0.236048
+	Train Epoch: 16 [6144/7405 (83%)]	Loss: 0.113243
+	Train Epoch: 16 [6656/7405 (90%)]	Loss: 0.389798
+	Train Epoch: 16 [7168/7405 (97%)]	Loss: 0.204637
+
+End of Epoch #16, AVG Train Loss=0.263
+
+_____VALIDATING_____
+	Val Epoch: 16 [0/1852 (0%)]	Loss: 0.297433
+	Val Epoch: 16 [512/1852 (28%)]	Loss: 0.328447
+	Val Epoch: 16 [1024/1852 (55%)]	Loss: 0.235404
+	Val Epoch: 16 [1536/1852 (83%)]	Loss: 0.545546
+
+End of Epoch #16, AVG Val Loss=0.262
+
+_____TRAINING_____
+epoch #17
+	Train Epoch: 17 [0/7405 (0%)]	Loss: 0.204390
+	Train Epoch: 17 [512/7405 (7%)]	Loss: 0.578086
+	Train Epoch: 17 [1024/7405 (14%)]	Loss: 0.141224
+	Train Epoch: 17 [1536/7405 (21%)]	Loss: 0.235072
+	Train Epoch: 17 [2048/7405 (28%)]	Loss: 0.235214
+	Train Epoch: 17 [2560/7405 (35%)]	Loss: 0.266388
+	Train Epoch: 17 [3072/7405 (41%)]	Loss: 0.266386
+	Train Epoch: 17 [3584/7405 (48%)]	Loss: 0.266392
+	Train Epoch: 17 [4096/7405 (55%)]	Loss: 0.141629
+	Train Epoch: 17 [4608/7405 (62%)]	Loss: 0.360232
+	Train Epoch: 17 [5120/7405 (69%)]	Loss: 0.328977
+	Train Epoch: 17 [5632/7405 (76%)]	Loss: 0.266385
+	Train Epoch: 17 [6144/7405 (83%)]	Loss: 0.422079
+	Train Epoch: 17 [6656/7405 (90%)]	Loss: 0.484552
+	Train Epoch: 17 [7168/7405 (97%)]	Loss: 0.235324
+
+End of Epoch #17, AVG Train Loss=0.2626
+
+_____VALIDATING_____
+	Val Epoch: 17 [0/1852 (0%)]	Loss: 0.110780
+	Val Epoch: 17 [512/1852 (28%)]	Loss: 0.204153
+	Val Epoch: 17 [1024/1852 (55%)]	Loss: 0.266402
+	Val Epoch: 17 [1536/1852 (83%)]	Loss: 0.173029
+
+End of Epoch #17, AVG Val Loss=0.2625
+
+_____TRAINING_____
+epoch #18
+	Train Epoch: 18 [0/7405 (0%)]	Loss: 0.173029
+	Train Epoch: 18 [512/7405 (7%)]	Loss: 0.235040
+	Train Epoch: 18 [1024/7405 (14%)]	Loss: 0.297787
+	Train Epoch: 18 [1536/7405 (21%)]	Loss: 0.235044
+	Train Epoch: 18 [2048/7405 (28%)]	Loss: 0.266398
+	Train Epoch: 18 [2560/7405 (35%)]	Loss: 0.235192
+	Train Epoch: 18 [3072/7405 (41%)]	Loss: 0.141184
+	Train Epoch: 18 [3584/7405 (48%)]	Loss: 0.422725
+	Train Epoch: 18 [4096/7405 (55%)]	Loss: 0.266393
+	Train Epoch: 18 [4608/7405 (62%)]	Loss: 0.423330
+	Train Epoch: 18 [5120/7405 (69%)]	Loss: 0.328943
+	Train Epoch: 18 [5632/7405 (76%)]	Loss: 0.235263
+	Train Epoch: 18 [6144/7405 (83%)]	Loss: 0.359632
+	Train Epoch: 18 [6656/7405 (90%)]	Loss: 0.204030
+	Train Epoch: 18 [7168/7405 (97%)]	Loss: 0.172469
+
+End of Epoch #18, AVG Train Loss=0.2627
+
+_____VALIDATING_____
+	Val Epoch: 18 [0/1852 (0%)]	Loss: 0.422485
+	Val Epoch: 18 [512/1852 (28%)]	Loss: 0.360048
+	Val Epoch: 18 [1024/1852 (55%)]	Loss: 0.266392
+	Val Epoch: 18 [1536/1852 (83%)]	Loss: 0.172737
+
+End of Epoch #18, AVG Val Loss=0.262
+
+_____TRAINING_____
+epoch #19
+	Train Epoch: 19 [0/7405 (0%)]	Loss: 0.266392
+	Train Epoch: 19 [512/7405 (7%)]	Loss: 0.235235
+	Train Epoch: 19 [1024/7405 (14%)]	Loss: 0.235194
+	Train Epoch: 19 [1536/7405 (21%)]	Loss: 0.203963
+	Train Epoch: 19 [2048/7405 (28%)]	Loss: 0.235163
+	Train Epoch: 19 [2560/7405 (35%)]	Loss: 0.453927
+	Train Epoch: 19 [3072/7405 (41%)]	Loss: 0.235285
+	Train Epoch: 19 [3584/7405 (48%)]	Loss: 0.204138
+	Train Epoch: 19 [4096/7405 (55%)]	Loss: 0.297387
+	Train Epoch: 19 [4608/7405 (62%)]	Loss: 0.204467
+	Train Epoch: 19 [5120/7405 (69%)]	Loss: 0.204545
+	Train Epoch: 19 [5632/7405 (76%)]	Loss: 0.266401
+	Train Epoch: 19 [6144/7405 (83%)]	Loss: 0.328894
+	Train Epoch: 19 [6656/7405 (90%)]	Loss: 0.234859
+	Train Epoch: 19 [7168/7405 (97%)]	Loss: 0.392406
+
+End of Epoch #19, AVG Train Loss=0.2627
+
+_____VALIDATING_____
+	Val Epoch: 19 [0/1852 (0%)]	Loss: 0.234984
+	Val Epoch: 19 [512/1852 (28%)]	Loss: 0.077979
+	Val Epoch: 19 [1024/1852 (55%)]	Loss: 0.203583
+	Val Epoch: 19 [1536/1852 (83%)]	Loss: 0.266385
+
+End of Epoch #19, AVG Val Loss=0.2619
+
+_____TRAINING_____
+epoch #20
+	Train Epoch: 20 [0/7405 (0%)]	Loss: 0.454790
+	Train Epoch: 20 [512/7405 (7%)]	Loss: 0.141127
+	Train Epoch: 20 [1024/7405 (14%)]	Loss: 0.203792
+	Train Epoch: 20 [1536/7405 (21%)]	Loss: 0.140532
+	Train Epoch: 20 [2048/7405 (28%)]	Loss: 0.171753
+	Train Epoch: 20 [2560/7405 (35%)]	Loss: 0.203061
+	Train Epoch: 20 [3072/7405 (41%)]	Loss: 0.172146
+	Train Epoch: 20 [3584/7405 (48%)]	Loss: 0.329204
+	Train Epoch: 20 [4096/7405 (55%)]	Loss: 0.266385
+	Train Epoch: 20 [4608/7405 (62%)]	Loss: 0.266385
+	Train Epoch: 20 [5120/7405 (69%)]	Loss: 0.203832
+	Train Epoch: 20 [5632/7405 (76%)]	Loss: 0.297587
+	Train Epoch: 20 [6144/7405 (83%)]	Loss: 0.110390
+	Train Epoch: 20 [6656/7405 (90%)]	Loss: 0.328594
+	Train Epoch: 20 [7168/7405 (97%)]	Loss: 0.110874
+
+End of Epoch #20, AVG Train Loss=0.2626
+
+_____VALIDATING_____
+	Val Epoch: 20 [0/1852 (0%)]	Loss: 0.328818
+	Val Epoch: 20 [512/1852 (28%)]	Loss: 0.391244
+	Val Epoch: 20 [1024/1852 (55%)]	Loss: 0.079116
+	Val Epoch: 20 [1536/1852 (83%)]	Loss: 0.391244
+
+End of Epoch #20, AVG Val Loss=0.262
+
+_____TRAINING_____
+epoch #21
+	Train Epoch: 21 [0/7405 (0%)]	Loss: 0.235180
+	Train Epoch: 21 [512/7405 (7%)]	Loss: 0.203744
+	Train Epoch: 21 [1024/7405 (14%)]	Loss: 0.172308
+	Train Epoch: 21 [1536/7405 (21%)]	Loss: 0.266393
+	Train Epoch: 21 [2048/7405 (28%)]	Loss: 0.239824
+	Train Epoch: 21 [2560/7405 (35%)]	Loss: 0.266349
+	Train Epoch: 21 [3072/7405 (41%)]	Loss: 0.266323
+	Train Epoch: 21 [3584/7405 (48%)]	Loss: 0.135151
+	Train Epoch: 21 [4096/7405 (55%)]	Loss: 0.297270
+	Train Epoch: 21 [4608/7405 (62%)]	Loss: 0.288683
+	Train Epoch: 21 [5120/7405 (69%)]	Loss: 0.123326
+	Train Epoch: 21 [5632/7405 (76%)]	Loss: 0.163877
+	Train Epoch: 21 [6144/7405 (83%)]	Loss: 0.199954
+	Train Epoch: 21 [6656/7405 (90%)]	Loss: 0.306284
+	Train Epoch: 21 [7168/7405 (97%)]	Loss: 0.278767
+
+End of Epoch #21, AVG Train Loss=0.2485
+
+_____VALIDATING_____
+	Val Epoch: 21 [0/1852 (0%)]	Loss: 0.204768
+	Val Epoch: 21 [512/1852 (28%)]	Loss: 0.085746
+	Val Epoch: 21 [1024/1852 (55%)]	Loss: 0.373517
+	Val Epoch: 21 [1536/1852 (83%)]	Loss: 0.315622
+
+End of Epoch #21, AVG Val Loss=0.2198
+
+Model saved  ./checkpoints/model_21_0.22.pth
+_____TRAINING_____
+epoch #22
+	Train Epoch: 22 [0/7405 (0%)]	Loss: 0.306551
+	Train Epoch: 22 [512/7405 (7%)]	Loss: 0.197631
+	Train Epoch: 22 [1024/7405 (14%)]	Loss: 0.221429
+	Train Epoch: 22 [1536/7405 (21%)]	Loss: 0.278929
+	Train Epoch: 22 [2048/7405 (28%)]	Loss: 0.173782
+	Train Epoch: 22 [2560/7405 (35%)]	Loss: 0.304380
+	Train Epoch: 22 [3072/7405 (41%)]	Loss: 0.194819
+	Train Epoch: 22 [3584/7405 (48%)]	Loss: 0.294074
+	Train Epoch: 22 [4096/7405 (55%)]	Loss: 0.278193
+	Train Epoch: 22 [4608/7405 (62%)]	Loss: 0.169054
+	Train Epoch: 22 [5120/7405 (69%)]	Loss: 0.242828
+	Train Epoch: 22 [5632/7405 (76%)]	Loss: 0.289267
+	Train Epoch: 22 [6144/7405 (83%)]	Loss: 0.310465
+	Train Epoch: 22 [6656/7405 (90%)]	Loss: 0.158900
+	Train Epoch: 22 [7168/7405 (97%)]	Loss: 0.253055
+
+End of Epoch #22, AVG Train Loss=0.2197
+
+_____VALIDATING_____
+	Val Epoch: 22 [0/1852 (0%)]	Loss: 0.106178
+	Val Epoch: 22 [512/1852 (28%)]	Loss: 0.222733
+	Val Epoch: 22 [1024/1852 (55%)]	Loss: 0.142524
+	Val Epoch: 22 [1536/1852 (83%)]	Loss: 0.149119
+
+End of Epoch #22, AVG Val Loss=0.2079
+
+Model saved  ./checkpoints/model_22_0.21.pth
+_____TRAINING_____
+epoch #23
+	Train Epoch: 23 [0/7405 (0%)]	Loss: 0.268346
+	Train Epoch: 23 [512/7405 (7%)]	Loss: 0.189620
+	Train Epoch: 23 [1024/7405 (14%)]	Loss: 0.287246
+	Train Epoch: 23 [1536/7405 (21%)]	Loss: 0.251929
+	Train Epoch: 23 [2048/7405 (28%)]	Loss: 0.286707
+	Train Epoch: 23 [2560/7405 (35%)]	Loss: 0.207223
+	Train Epoch: 23 [3072/7405 (41%)]	Loss: 0.207446
+	Train Epoch: 23 [3584/7405 (48%)]	Loss: 0.254251
+	Train Epoch: 23 [4096/7405 (55%)]	Loss: 0.222133
+	Train Epoch: 23 [4608/7405 (62%)]	Loss: 0.124952
+	Train Epoch: 23 [5120/7405 (69%)]	Loss: 0.205458
+	Train Epoch: 23 [5632/7405 (76%)]	Loss: 0.131466
+	Train Epoch: 23 [6144/7405 (83%)]	Loss: 0.364535
+	Train Epoch: 23 [6656/7405 (90%)]	Loss: 0.259174
+	Train Epoch: 23 [7168/7405 (97%)]	Loss: 0.206763
+
+End of Epoch #23, AVG Train Loss=0.2143
+
+_____VALIDATING_____
+	Val Epoch: 23 [0/1852 (0%)]	Loss: 0.135266
+	Val Epoch: 23 [512/1852 (28%)]	Loss: 0.050846
+	Val Epoch: 23 [1024/1852 (55%)]	Loss: 0.238430
+	Val Epoch: 23 [1536/1852 (83%)]	Loss: 0.226222
+
+End of Epoch #23, AVG Val Loss=0.2076
+
+Model saved  ./checkpoints/model_23_0.21.pth
+_____TRAINING_____
+epoch #24
+	Train Epoch: 24 [0/7405 (0%)]	Loss: 0.138208
+	Train Epoch: 24 [512/7405 (7%)]	Loss: 0.257782
+	Train Epoch: 24 [1024/7405 (14%)]	Loss: 0.130344
+	Train Epoch: 24 [1536/7405 (21%)]	Loss: 0.191828
+	Train Epoch: 24 [2048/7405 (28%)]	Loss: 0.098467
+	Train Epoch: 24 [2560/7405 (35%)]	Loss: 0.204733
+	Train Epoch: 24 [3072/7405 (41%)]	Loss: 0.132169
+	Train Epoch: 24 [3584/7405 (48%)]	Loss: 0.382517
+	Train Epoch: 24 [4096/7405 (55%)]	Loss: 0.243149
+	Train Epoch: 24 [4608/7405 (62%)]	Loss: 0.173919
+	Train Epoch: 24 [5120/7405 (69%)]	Loss: 0.252708
+	Train Epoch: 24 [5632/7405 (76%)]	Loss: 0.233579
+	Train Epoch: 24 [6144/7405 (83%)]	Loss: 0.192688
+	Train Epoch: 24 [6656/7405 (90%)]	Loss: 0.161024
+	Train Epoch: 24 [7168/7405 (97%)]	Loss: 0.130487
+
+End of Epoch #24, AVG Train Loss=0.2125
+
+_____VALIDATING_____
+	Val Epoch: 24 [0/1852 (0%)]	Loss: 0.309666
+	Val Epoch: 24 [512/1852 (28%)]	Loss: 0.194085
+	Val Epoch: 24 [1024/1852 (55%)]	Loss: 0.163337
+	Val Epoch: 24 [1536/1852 (83%)]	Loss: 0.105104
+
+End of Epoch #24, AVG Val Loss=0.2048
+
+Model saved  ./checkpoints/model_24_0.20.pth
+_____TRAINING_____
+epoch #25
+	Train Epoch: 25 [0/7405 (0%)]	Loss: 0.118003
+	Train Epoch: 25 [512/7405 (7%)]	Loss: 0.191882
+	Train Epoch: 25 [1024/7405 (14%)]	Loss: 0.214513
+	Train Epoch: 25 [1536/7405 (21%)]	Loss: 0.119432
+	Train Epoch: 25 [2048/7405 (28%)]	Loss: 0.183559
+	Train Epoch: 25 [2560/7405 (35%)]	Loss: 0.276480
+	Train Epoch: 25 [3072/7405 (41%)]	Loss: 0.222137
+	Train Epoch: 25 [3584/7405 (48%)]	Loss: 0.198678
+	Train Epoch: 25 [4096/7405 (55%)]	Loss: 0.279185
+	Train Epoch: 25 [4608/7405 (62%)]	Loss: 0.433744
+	Train Epoch: 25 [5120/7405 (69%)]	Loss: 0.194386
+	Train Epoch: 25 [5632/7405 (76%)]	Loss: 0.177770
+	Train Epoch: 25 [6144/7405 (83%)]	Loss: 0.157975
+	Train Epoch: 25 [6656/7405 (90%)]	Loss: 0.257425
+	Train Epoch: 25 [7168/7405 (97%)]	Loss: 0.181581
+
+End of Epoch #25, AVG Train Loss=0.2121
+
+_____VALIDATING_____
+	Val Epoch: 25 [0/1852 (0%)]	Loss: 0.294651
+	Val Epoch: 25 [512/1852 (28%)]	Loss: 0.317696
+	Val Epoch: 25 [1024/1852 (55%)]	Loss: 0.182509
+	Val Epoch: 25 [1536/1852 (83%)]	Loss: 0.140744
+
+End of Epoch #25, AVG Val Loss=0.2029
+
+Model saved  ./checkpoints/model_25_0.20.pth
+_____TRAINING_____
+epoch #26
+	Train Epoch: 26 [0/7405 (0%)]	Loss: 0.205512
+	Train Epoch: 26 [512/7405 (7%)]	Loss: 0.168827
+	Train Epoch: 26 [1024/7405 (14%)]	Loss: 0.172598
+	Train Epoch: 26 [1536/7405 (21%)]	Loss: 0.190575
+	Train Epoch: 26 [2048/7405 (28%)]	Loss: 0.078867
+	Train Epoch: 26 [2560/7405 (35%)]	Loss: 0.198426
+	Train Epoch: 26 [3072/7405 (41%)]	Loss: 0.165289
+	Train Epoch: 26 [3584/7405 (48%)]	Loss: 0.256799
+	Train Epoch: 26 [4096/7405 (55%)]	Loss: 0.444058
+	Train Epoch: 26 [4608/7405 (62%)]	Loss: 0.227687
+	Train Epoch: 26 [5120/7405 (69%)]	Loss: 0.086144
+	Train Epoch: 26 [5632/7405 (76%)]	Loss: 0.097430
+	Train Epoch: 26 [6144/7405 (83%)]	Loss: 0.296104
+	Train Epoch: 26 [6656/7405 (90%)]	Loss: 0.088274
+	Train Epoch: 26 [7168/7405 (97%)]	Loss: 0.207483
+
+End of Epoch #26, AVG Train Loss=0.2093
+
+_____VALIDATING_____
+	Val Epoch: 26 [0/1852 (0%)]	Loss: 0.142673
+	Val Epoch: 26 [512/1852 (28%)]	Loss: 0.460069
+	Val Epoch: 26 [1024/1852 (55%)]	Loss: 0.092834
+	Val Epoch: 26 [1536/1852 (83%)]	Loss: 0.102212
+
+End of Epoch #26, AVG Val Loss=0.2211
+
+_____TRAINING_____
+epoch #27
+	Train Epoch: 27 [0/7405 (0%)]	Loss: 0.129401
+	Train Epoch: 27 [512/7405 (7%)]	Loss: 0.217858
+	Train Epoch: 27 [1024/7405 (14%)]	Loss: 0.097883
+	Train Epoch: 27 [1536/7405 (21%)]	Loss: 0.116528
+	Train Epoch: 27 [2048/7405 (28%)]	Loss: 0.287800
+	Train Epoch: 27 [2560/7405 (35%)]	Loss: 0.163089
+	Train Epoch: 27 [3072/7405 (41%)]	Loss: 0.244664
+	Train Epoch: 27 [3584/7405 (48%)]	Loss: 0.273370
+	Train Epoch: 27 [4096/7405 (55%)]	Loss: 0.178396
+	Train Epoch: 27 [4608/7405 (62%)]	Loss: 0.124724
+	Train Epoch: 27 [5120/7405 (69%)]	Loss: 0.158247
+	Train Epoch: 27 [5632/7405 (76%)]	Loss: 0.100070
+	Train Epoch: 27 [6144/7405 (83%)]	Loss: 0.071891
+	Train Epoch: 27 [6656/7405 (90%)]	Loss: 0.251056
+	Train Epoch: 27 [7168/7405 (97%)]	Loss: 0.210310
+
+End of Epoch #27, AVG Train Loss=0.2071
+
+_____VALIDATING_____
+	Val Epoch: 27 [0/1852 (0%)]	Loss: 0.291572
+	Val Epoch: 27 [512/1852 (28%)]	Loss: 0.225774
+	Val Epoch: 27 [1024/1852 (55%)]	Loss: 0.111603
+	Val Epoch: 27 [1536/1852 (83%)]	Loss: 0.151269
+
+End of Epoch #27, AVG Val Loss=0.2049
+
+_____TRAINING_____
+epoch #28
+	Train Epoch: 28 [0/7405 (0%)]	Loss: 0.177905
+	Train Epoch: 28 [512/7405 (7%)]	Loss: 0.228740
+	Train Epoch: 28 [1024/7405 (14%)]	Loss: 0.254446
+	Train Epoch: 28 [1536/7405 (21%)]	Loss: 0.291829
+	Train Epoch: 28 [2048/7405 (28%)]	Loss: 0.153407
+	Train Epoch: 28 [2560/7405 (35%)]	Loss: 0.053722
+	Train Epoch: 28 [3072/7405 (41%)]	Loss: 0.281586
+	Train Epoch: 28 [3584/7405 (48%)]	Loss: 0.319839
+	Train Epoch: 28 [4096/7405 (55%)]	Loss: 0.172549
+	Train Epoch: 28 [4608/7405 (62%)]	Loss: 0.076952
+	Train Epoch: 28 [5120/7405 (69%)]	Loss: 0.105664
+	Train Epoch: 28 [5632/7405 (76%)]	Loss: 0.195934
+	Train Epoch: 28 [6144/7405 (83%)]	Loss: 0.249906
+	Train Epoch: 28 [6656/7405 (90%)]	Loss: 0.134172
+	Train Epoch: 28 [7168/7405 (97%)]	Loss: 0.180214
+
+End of Epoch #28, AVG Train Loss=0.2064
+
+_____VALIDATING_____
+	Val Epoch: 28 [0/1852 (0%)]	Loss: 0.307212
+	Val Epoch: 28 [512/1852 (28%)]	Loss: 0.138551
+	Val Epoch: 28 [1024/1852 (55%)]	Loss: 0.278018
+	Val Epoch: 28 [1536/1852 (83%)]	Loss: 0.055537
+
+End of Epoch #28, AVG Val Loss=0.2029
+
+Model saved  ./checkpoints/model_28_0.20.pth
+_____TRAINING_____
+epoch #29
+	Train Epoch: 29 [0/7405 (0%)]	Loss: 0.265802
+	Train Epoch: 29 [512/7405 (7%)]	Loss: 0.171661
+	Train Epoch: 29 [1024/7405 (14%)]	Loss: 0.151206
+	Train Epoch: 29 [1536/7405 (21%)]	Loss: 0.122549
+	Train Epoch: 29 [2048/7405 (28%)]	Loss: 0.426763
+	Train Epoch: 29 [2560/7405 (35%)]	Loss: 0.212165
+	Train Epoch: 29 [3072/7405 (41%)]	Loss: 0.102420
+	Train Epoch: 29 [3584/7405 (48%)]	Loss: 0.273060
+	Train Epoch: 29 [4096/7405 (55%)]	Loss: 0.070788
+	Train Epoch: 29 [4608/7405 (62%)]	Loss: 0.197896
+	Train Epoch: 29 [5120/7405 (69%)]	Loss: 0.309012
+	Train Epoch: 29 [5632/7405 (76%)]	Loss: 0.145140
+	Train Epoch: 29 [6144/7405 (83%)]	Loss: 0.130596
+	Train Epoch: 29 [6656/7405 (90%)]	Loss: 0.050163
+	Train Epoch: 29 [7168/7405 (97%)]	Loss: 0.224190
+
+End of Epoch #29, AVG Train Loss=0.2046
+
+_____VALIDATING_____
+	Val Epoch: 29 [0/1852 (0%)]	Loss: 0.276308
+	Val Epoch: 29 [512/1852 (28%)]	Loss: 0.121102
+	Val Epoch: 29 [1024/1852 (55%)]	Loss: 0.234046
+	Val Epoch: 29 [1536/1852 (83%)]	Loss: 0.155116
+
+End of Epoch #29, AVG Val Loss=0.2081
+
+_____TRAINING_____
+epoch #30
+	Train Epoch: 30 [0/7405 (0%)]	Loss: 0.215054
+	Train Epoch: 30 [512/7405 (7%)]	Loss: 0.109977
+	Train Epoch: 30 [1024/7405 (14%)]	Loss: 0.045931
+	Train Epoch: 30 [1536/7405 (21%)]	Loss: 0.111641
+	Train Epoch: 30 [2048/7405 (28%)]	Loss: 0.126954
+	Train Epoch: 30 [2560/7405 (35%)]	Loss: 0.321716
+	Train Epoch: 30 [3072/7405 (41%)]	Loss: 0.155630
+	Train Epoch: 30 [3584/7405 (48%)]	Loss: 0.310687
+	Train Epoch: 30 [4096/7405 (55%)]	Loss: 0.235453
+	Train Epoch: 30 [4608/7405 (62%)]	Loss: 0.154962
+	Train Epoch: 30 [5120/7405 (69%)]	Loss: 0.245986
+	Train Epoch: 30 [5632/7405 (76%)]	Loss: 0.104820
+	Train Epoch: 30 [6144/7405 (83%)]	Loss: 0.100051
+	Train Epoch: 30 [6656/7405 (90%)]	Loss: 0.102492
+	Train Epoch: 30 [7168/7405 (97%)]	Loss: 0.135688
+
+End of Epoch #30, AVG Train Loss=0.2045
+
+_____VALIDATING_____
+	Val Epoch: 30 [0/1852 (0%)]	Loss: 0.240283
+	Val Epoch: 30 [512/1852 (28%)]	Loss: 0.120422
+	Val Epoch: 30 [1024/1852 (55%)]	Loss: 0.204989
+	Val Epoch: 30 [1536/1852 (83%)]	Loss: 0.172554
+
+End of Epoch #30, AVG Val Loss=0.2098
+
+_____TESTING_____
+	Test Epoch: 30 [0/1297 (0%)]	Loss: 0.400062
+	Test Epoch: 30 [512/1297 (39%)]	Loss: 0.303846
+	Test Epoch: 30 [1024/1297 (79%)]	Loss: 0.160215
+
+AVG Test Loss=0.2833
+
+Training Finished
+
+____RESULTS____
+Average Precision Metric 
+ 	AP = 0.4243547650003294 
+	mAP = 0.44133263058275096 
+	AP_dict = {'tt1205489': 0.44937209408748796, 'tt1375666': 0.43944004051079305, 'tt1412386': 0.5537258781590395, 'tt1707386': 0.2981230102629725, 'tt2024544': 0.5690226130102841, 'tt2488496': 0.3108997275319894, 'tt2582846': 0.4687450505166901}
+
+IoU Metric 
+ 	mean_miou = 0.053972835141407056 
+	miou_dict = {'tt1205489': 0.028535499731287987, 'tt1375666': 0.07579754604309327, 'tt1412386': 0.05955595098601886, 'tt1707386': 0.030215081417225047, 'tt2024544': 0.030116858728477875, 'tt2488496': 0.08702184776057309, 'tt2582846': 0.06656706132317326}
