@@ -65,7 +65,7 @@ mean_miou = 0.053972835141407056
 miou_dict = {'tt1205489': 0.028535499731287987, 'tt1375666': 0.07579754604309327, 'tt1412386': 0.05955595098601886, 'tt1707386': 0.030215081417225047, 'tt2024544': 0.030116858728477875, 'tt2488496': 0.08702184776057309, 'tt2582846': 0.06656706132317326}
 ```
 **NOTE**: Average Precision and IoU are only computed for completely unseen Test set
-#### Saved Checkpoint can be found here: [Checkpoint with best val Loss = 0.2029 at epoch #28](https://drive.google.com/file/d/14DBSDDr8rYyvyLEnDXUxRMXZC2VnuoQb/view?usp=sharing)
+#### Saved Checkpoint can be found here: [Checkpoint with best val loss = 0.2029 at epoch #28](https://drive.google.com/file/d/14DBSDDr8rYyvyLEnDXUxRMXZC2VnuoQb/view?usp=sharing)
 ## Graphs
 ### Train Loss
 ![train](https://github.com/bharath3794/SceneSegmentation/blob/main/graphs_loss/train_loss_30_epochs.JPG)
