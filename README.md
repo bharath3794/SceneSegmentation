@@ -99,7 +99,7 @@ n_shots: no. of shots to consider in each sequence of a feature/sample
 - Run `python main.py`
 
 ## Graph Visualization
-Model graphs are provided in the project "./runs" directory.
+Model graphs are provided in the project `./runs` directory.
 Library required for graph visualization:
 
 ````
