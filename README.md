@@ -86,3 +86,13 @@ n_seq: sequence length of each feature/sample
 n_shots: no. of shots to consider in each sequence of a feature/sample
 ```
 - Run `python main.py`
+
+## Modules Required
+```
+numpy
+torch
+sklearn
+tensorboard
+glob
+pickle
+```
