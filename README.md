@@ -73,7 +73,7 @@ miou_dict = {'tt1205489': 0.028535499731287987, 'tt1375666': 0.07579754604309327
 ![val](https://github.com/bharath3794/SceneSegmentation/blob/main/graphs_loss/val_loss_30_epochs.JPG)
 
 ## Try Yourself
-### Modules Required
+### Requirements
 ```
 Python v3.8
 numpy v1.19.5
