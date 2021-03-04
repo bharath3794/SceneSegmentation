@@ -74,6 +74,7 @@ After epoch #30,
 
 ## Try Yourself
 - Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
+
 Important Parameters to Change:
 ```
 data_folder: Change to your data path
