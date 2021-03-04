@@ -22,7 +22,7 @@ Total Number of Movies in Dataset
 
 ## Model
 Taken from **AnyiRao's Model** available in his [Github Repo](https://github.com/AnyiRao/SceneSeg)
-(All Credits to him. Thanks to his excellent work.)
+(All Credits to him. Thanks for his excellent work.)
 
 ### Architecture Diagram
 ![architecture](https://raw.githubusercontent.com/AnyiRao/SceneSeg/master/images/pipeline.png)
@@ -74,4 +74,14 @@ After epoch #30,
 
 ## Try Yourself
 - Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
+Important Parameters to Change:
+```
+data_folder: Change to your data path
+save_dir: Give some path to save your checkpoints, otherwise checkpoints will not be saved
+cp_dir: To resume training from certain checkpoint, give your checkpoint path here
+num_epochs: number of epochs to run
+batch_size: batch size to consider
+n_seq: sequence length of each feature/sample
+n_shots: no. of shots to consider in each sequence of a feature/sample
+```
 - Run `python main.py`
