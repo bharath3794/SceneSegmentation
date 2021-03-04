@@ -75,12 +75,12 @@ miou_dict = {'tt1205489': 0.028535499731287987, 'tt1375666': 0.07579754604309327
 ## Try Yourself
 ### Modules Required
 ```
-numpy
-torch
-sklearn
-tensorboard
+numpy v1.19.5
+torch v1.6.0
+sklearn v0.24.1
+tensorboard v2.3.0
+pickle v4.0
 glob
-pickle
 ```
 ### Instructions to Run
 - Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
