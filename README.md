@@ -40,6 +40,10 @@ arXiv.org, 2020, https://arxiv.org/abs/2004.02678
 epoch #30
 	AVG Train Loss = 0.2045
 	AVG Val Loss = 0.2098
+
+Best Val Loss at epoch #28
+	AVG Train Loss=0.2064
+	AVG Val Loss=0.2029
 ```
 
 **On Test Set**
