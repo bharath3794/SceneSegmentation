@@ -22,7 +22,7 @@ Total Number of Movies in Dataset
 
 ## Model
 Taken from **AnyiRao's Model** available in his [Github Repo](https://github.com/AnyiRao/SceneSeg)
-(Thanks to his excellent work.)
+(All Credits to him. Thanks to his excellent work.)
 
 ### Architecture Diagram
 ![architecture](https://raw.githubusercontent.com/AnyiRao/SceneSeg/master/images/pipeline.png)
