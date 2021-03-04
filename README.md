@@ -11,7 +11,7 @@ Total Number of Movies in Dataset
 
 #### Train Dataset:
 >   * 90% of movies from these 64 Movies are created as Train Dataset (\~= 57 movies).
->   * All sample features created from these 57 movies are further split to Train and Val sets with 80% of total samples to Train and 20% of total samples to Validation Set
+>   * All sample features created from these 57 movies are further split to **Train and Val sets** with 80% of total samples to Train and 20% of total samples to Validation Set
    
 **NOTE**: Train and Validation sets are not splitted based on individual movies instead splitted on all the features created from every movie of these 57 movies (No. of features depends on no. of shots and sequence length we are considering for each feature)
 
