@@ -73,6 +73,16 @@ After epoch #30,
 ![val](https://github.com/bharath3794/SceneSegmentation/blob/main/graphs_loss/val_loss_30_epochs.JPG)
 
 ## Try Yourself
+### Modules Required
+```
+numpy
+torch
+sklearn
+tensorboard
+glob
+pickle
+```
+### Instructions to Run
 - Set Configuration Parameters in `configuration.py` file or while initiating `Config` class object from `'__main__'` in `main.py` file
 
 Important Parameters to Change:
@@ -86,13 +96,3 @@ n_seq: sequence length of each feature/sample
 n_shots: no. of shots to consider in each sequence of a feature/sample
 ```
 - Run `python main.py`
-
-## Modules Required
-```
-numpy
-torch
-sklearn
-tensorboard
-glob
-pickle
-```
