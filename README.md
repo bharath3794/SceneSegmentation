@@ -1,4 +1,4 @@
-# Scene Segmentation Using the MovieScenes Dataset (Solved as a Eluvio ML Challenge)
+# Scene Segmentation Using the MovieScenes Dataset
 
 ## Dataset
 [Dataset Link by Eluvio](https://drive.google.com/file/d/1oZSOkd4lFmbY205VKQ9aPv1Hz3T_-N6e/view?usp=sharing)
